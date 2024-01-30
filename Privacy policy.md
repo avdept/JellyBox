@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to [Your Audio Player Name] ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your data when you use our audio player.
+Welcome to Jellyybox ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your data when you use our audio player.
 
 ## 2. Information We Collect
 
