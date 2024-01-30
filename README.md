@@ -1,4 +1,4 @@
-# JellyBox
+# JellyBox - Music player for Jellyfin
 
 [![Jellybox on the App Store](./docs/img/appstore.svg)](https://apps.apple.com/us/app/jellybox-player/id6469732117)
 
