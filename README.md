@@ -3,7 +3,7 @@
 [![Jellybox on the App Store](./docs/img/appstore.svg)](https://apps.apple.com/us/app/jellybox-player/id6469732117)
 
 ### Description
-This is unofficial *audio* client for jellyfin app. For now macos and ios only. Expect any kind of crashes, issues and generally its good if it even runs.
+This is unofficial **audio** client for jellyfin app. For now macos and ios only. Expect any kind of crashes, issues and generally its good if it even runs.
 
 ### Testing
 In order to join test you need to use testflight app(official Apple's way of testing apps). You can join testing here - [Test Flight](https://testflight.apple.com/join/LVj8KwAq)
