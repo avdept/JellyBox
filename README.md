@@ -1,5 +1,7 @@
 # JellyBox
 
+[![Jellybox on the App Store](./docs/images/app-store.svg)](https://apps.apple.com/us/app/jellybox-player/id6469732117)
+
 ### Description
 This is unofficial client for jellyfin app. For now macos only. Very early build. Expect any kind of crashes, issues and generally its good if it even runs.
 
